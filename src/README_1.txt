@@ -56,3 +56,9 @@ xls , xlsx (extends)
 
 
 
+클릭 -> event
+
+
+{} JavaScript Object Notation 자바스크립트 객체 표기법 JSON
+[] array [{}, {}, ....]
+
